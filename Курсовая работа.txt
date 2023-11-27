@@ -1,0 +1,72 @@
+1. Данный компьютер подключен к интернету
+2. Скорость загрузки: 12.21 Mbps Скорость выгрузки: 5.57 Mbps
+3. Фаервол не установлен!
+4. Межсетевой экран функционирует неверно, или не функционирует вовсе!
+5. Антивирус не установлен!
+6. Антивирус не работает!
+7. 2023-11 Накопительный пакет обновления .NET Framework 3.5, 4.8 и 4.8.1 для Windows 10 Version 21H2 для x64 систем (KB5032338)
+В программном продукте Microsoft обнаружена проблема безопасности, которая может повлиять на вашу систему. Чтобы защитить компьютер, установите данное обновление, выпущенное корпорацией Майкрософт. Полный список проблем, устраняемых этим обновлением, см. в соответствующей статье базы знаний Майкрософт. После установки этого обновления может потребоваться перезагрузить компьютер.
+Downloaded: True, Mandatory: False
+
+
+Intel - Other hardware - Intel(R) 100 Series/C230 Series Chipset Family SMBus - A123
+Intel Other hardware software update released in October, 2016
+Downloaded: False, Mandatory: False
+
+
+Intel Corporation - System - 6/23/2017 12:00:00 AM - 30.100.1725.1
+Intel Corporation System  driver update released in  June 2017
+Downloaded: False, Mandatory: False
+
+
+Realtek - LAN - Realtek PCIe GBE Family Controller
+Realtek LAN software update released in March, 2016
+Downloaded: False, Mandatory: False
+
+
+Intel - Other hardware - Intel(R) 100 Series/C230 Series Chipset Family PCI Express Root Port #12 - A11B
+Intel Other hardware software update released in October, 2016
+Downloaded: False, Mandatory: False
+
+
+INTEL - System - 1/1/1970 12:00:00 AM - 10.1.1.42
+INTEL System  driver update released in  January 1970
+Downloaded: False, Mandatory: False
+
+
+Intel - Other hardware - Intel(R) 100 Series/C230 Series Chipset Family PMC - A121
+Intel Other hardware software update released in October, 2016
+Downloaded: False, Mandatory: False
+
+
+INTEL - System - 1/1/1970 12:00:00 AM - 10.1.1.42
+INTEL System  driver update released in  January 1970
+Downloaded: False, Mandatory: False
+
+
+INTEL - System - 10/3/2016 12:00:00 AM - 10.1.1.38
+INTEL System  driver update released in  October 2016
+Downloaded: False, Mandatory: False
+
+
+INTEL - System - 10/3/2016 12:00:00 AM - 10.1.1.38
+INTEL System  driver update released in  October 2016
+Downloaded: False, Mandatory: False
+
+
+Canon - Printer - 2.70.2.12
+Canon Printer  driver update released in  July 2023
+Downloaded: False, Mandatory: False
+
+
+Canon - Image - 20.2.1.5
+Canon Image  driver update released in  June 2023
+Downloaded: False, Mandatory: False
+
+
+Накопительное обновление для Windows 10 Version 21H2 для систем на базе процессоров x64, 2023 11 (KB5032189)
+Установите это обновление, чтобы устранить проблемы в Windows. Полный список проблем, устраняемых этим обновлением, см. в соответствующей статье базы знаний Майкрософт. После установки этого обновления может потребоваться перезагрузить компьютер.
+Downloaded: True, Mandatory: False
+
+
+
